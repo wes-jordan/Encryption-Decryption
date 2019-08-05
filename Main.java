@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  * JetBrains Academy: Java Developer
- * Powered by: Hyperskills
+ * Powered by: Hyperskill
  * https://hyperskill.org
  *
  * Project: Encryption-Decryption
